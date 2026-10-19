@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/duosecurity/duo_client_python/commit/685f32163918c1b369da3317b1e64b4532ac5724",
       "git:hexsha": "685f32163918c1b369da3317b1e64b4532ac5724",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-19T12:07:24.809247+00:00"
     },
     {
       "@id": "https://repolex.ai/r/duosecurity/duo_client_python/commit/12575ec76b7abc5cc817f82b6acbe590d6c73cf1",
